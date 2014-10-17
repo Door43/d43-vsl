@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vsl:home|Door43 (vsl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vsl|d43-vsl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vsl/archive/master.zip|d43-vsl.zip]]
+
+**Recent Changes**
+{{changes>ns = vsl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vsl|Ethnologue data]]
+
